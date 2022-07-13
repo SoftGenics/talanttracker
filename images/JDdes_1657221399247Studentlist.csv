@@ -1,0 +1,5 @@
+﻿"User name who accepted the JD","User Category","How many JDs a user can unlock in a day?","Detail JD (doc, pdf file sent by client) to be shown to a particular user even if he or she is accepting the JD?","Cvs quality check","Password","Suspension of user account","Allow user to remove candidate’s mobile number from the tracker sheet","Allow user to write special remarks, comments in the tracker shee","Admin can make it compulsory for user to use own / our database","Don't allow user to edit the status"
+"Patna","A","1","yes","yes","2","","","","",""
+"Ranchi","B","2","no","no","003","","","","",""
+"Haryana","C","3","yes","yes","33","","","","",""
+"Delhi","in-house","4","yes","yes","33","","","","",""
