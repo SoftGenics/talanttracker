@@ -1,0 +1,81 @@
+.top-button {
+    margin-top: 7rem;
+    margin-left: 5rem;
+}
+.top-button  .dropdown-toggle::after{
+    display: none !important;
+} 
+.myprofile-cont{
+    margin-left: 3rem !important;
+}
+.top-button .text {
+    color: #7367f0 !important;
+}
+.myprofile {
+    margin-top: 9rem;
+    margin-left: 6rem !important;
+}
+.myprofile .sidebar .card {
+    box-shadow: 0px 0px 4px rgb(187, 186, 186);
+    margin: 0!important;
+    height: calc(100vh - 135px);
+    border-radius: 10px;
+}
+.myprofile .sidebar .card .sidebarMenuItem {
+    list-style: none;
+}
+.myprofile .sidebar .card .sidebarMenuItem li {
+    
+    padding: 0.8rem;
+    padding-left: 0 !important;
+}
+.myprofile .sidebar .card .sidebarMenuItem li i {
+    background-color: #e6ecff;
+    height: 25px;
+    width: 25px;
+    padding: 5px 6px;
+    border-radius: 50%;
+}
+.myprofile .sidebar .card .sidebarMenuItem  .active {
+    background-color: #e6ecff;
+    color:  #7367f0;
+
+}
+.myprofile .sidebar .card .sidebarMenuItem li:hover {
+    background-color: #e6ecff;
+    color:  #7367f0;
+}
+.myprofile .sidebar .card .sidebarMenuItem li a {
+    text-decoration: none;
+    padding: 5px;
+
+    color: black;
+    width: 5rem;
+}
+.myprofile .sidebar .card .sidebarMenuItem li a:hover{
+    color:  #7367f0;
+}
+.myprofile .sidebar .card .sidebarMenuItem li .active-link{
+    color:  #7367f0;
+}
+.myprofile .right-side {
+    padding: auto;
+}
+.myprofile .right-side .card {
+    box-shadow: 0px 0px 4px rgb(187, 186, 186);
+    margin: 0!important;
+    height: calc(100vh - 135px);
+    border-radius: 10px;
+}
+.myprofile .right-side .card .card-title {
+    font-size: 10px;
+    font-weight: 400;
+    margin-bottom: 0;
+    padding: 0.8rem;
+    color: #7367f0;
+    background-color: #e6ecff
+}
+.myprofile .right-side .card form .form-label {
+    font-weight: 400
+}
+

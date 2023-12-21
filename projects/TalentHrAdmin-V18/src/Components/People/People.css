@@ -1,0 +1,7 @@
+.search-contact {
+  max-width: 992px;
+}
+.form-div {
+    overflow-y: scroll;
+    height: calc(100vh - 240px);
+}
